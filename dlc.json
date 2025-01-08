@@ -1,0 +1,62 @@
+[
+    {
+        "desc": "“通往黑海之路”带来了三个新的欧洲地区。驾驶员们将能够扩张他们的公司，并运货至罗马尼亚、保加利亚及土耳其。罗马尼亚以其被森林覆盖的特兰西瓦尼亚地区及其附近的喀尔巴阡山脉而闻名；保加利亚则以其多变地形和黑海海岸线而为人熟知；土耳其的色雷斯地区是通往欧洲最大城市——伊斯坦布尔的门户。",
+        "file_name": "dlc_balkan_e.scs",
+        "image_url": "https://ets-vtc-manage.oss-cn-beijing.aliyuncs.com/dlc_img/95af4216be4c41bc9dbfd286ff960a55.jpg",
+        "name": "Road to the Black Sea"
+    },
+    {
+        "desc": "《Going East!》扩展包扩展了《Euro Truck Simulator 2》中的地图，新增了波兰、捷克、斯洛伐克和匈牙利境内的货运目的地。",
+        "file_name": "dlc_east.scs",
+        "image_url": "https://ets-vtc-manage.oss-cn-beijing.aliyuncs.com/dlc_img/a7d40a815e894ea2a56a403e3e3ecdc1.jpg",
+        "name": "Going East!"
+    },
+    {
+        "desc": "我们非常自豪地宣布推出《Euro Truck Simulator 2 - Italia》地图扩展包。我们的《ETS 2》地图设计团队正在尽最大努力工作，我们很期待以高水准的制作让您体验意大利的悠久历史与现代工业，从而领略意大利的别样风貌。",
+        "file_name": "dlc_it.scs",
+        "image_url": "https://ets-vtc-manage.oss-cn-beijing.aliyuncs.com/dlc_img/8426ff205594414e88af20ec5237fb26.jpg",
+        "name": "Italia"
+    },
+    {
+        "desc": "《Vive la France !》是《Euro Truck Simulator 2》的大型地图扩展包。在工业化城市宽阔的林荫大道和偏远村镇的狭窄街区徜徉。从北到南，领略不同的地貌与植被，体验独特的法式户外风情。",
+        "file_name": "dlc_fr.scs",
+        "image_url": "https://ets-vtc-manage.oss-cn-beijing.aliyuncs.com/dlc_img/10c76be87718483abc31cb90a38b4a1d.jpg",
+        "name": "Vive la France !"
+    },
+    {
+        "desc": "波罗的海彼岸DLC为欧洲卡车模拟2带来立陶宛、拉脱维亚和爱沙尼亚这几个国家的地图，此外，还有俄罗斯西部、芬兰南部的部分地区。",
+        "file_name": "dlc_balt.scs",
+        "image_url": "https://ets-vtc-manage.oss-cn-beijing.aliyuncs.com/dlc_img/62ee1e392ac04fd6bb8fd63daa919b62.jpg",
+        "name": "Beyond the Baltic Sea"
+    },
+    {
+        "desc": "做好准备，迎接《Euro Truck Simulator 2》迄今为止最激动人心的 DLC 吧。本次地图扩展包囊括瑞典、挪威和丹麦三国，为您带来绵长秀丽、风景如画的道路，以及遍布北欧三国的众多地标景点。全新的渡轮码头让您可以直接驾驶卡车登上渡轮，方便您前往沿海城市，还可以使用全新航线，前往德国北部、波兰和英国的港口。探索包括斯德哥尔摩、马尔默、哥德堡、奥斯陆、斯塔万格、卑尔根、哥本哈根、奥尔堡和埃斯比约在内的 27 座斯堪的纳维亚城市。",
+        "file_name": "dlc_north.scs",
+        "image_url": "https://ets-vtc-manage.oss-cn-beijing.aliyuncs.com/dlc_img/9fa2c81745b64c768656642ccfa414c0.jpg",
+        "name": "Scandinavia"
+    },
+    {
+        "desc": "伊比利亚半岛拥有丰富多样的自然景观，从半干旱的西南部沙漠到翠绿的针叶林。这里有许多古村庄与城镇、狭窄的街道、古老的教堂及令人印象深刻的城堡。参观西班牙首都马德里，葡萄牙海滨首都里斯本，以及许多像马拉加、奥良这样的沿海城市，当然还有很多内陆城市。 成为伊比利亚与欧洲其他地区之间发达的出口经济的重要一分子，运送货物吧。",
+        "file_name": "dlc_iberia.scs",
+        "image_url": "https://ets-vtc-manage.oss-cn-beijing.aliyuncs.com/dlc_img/7ddc0795c5804b7bad6c18cbfbb0e101.jpg",
+        "name": "Iberia"
+    },
+    {
+        "desc": "探索，运输，拓展你们的货运公司至阿尔巴尼亚、波黑、克罗地亚、科索沃、黑山、北马其顿、塞尔维亚、斯洛文尼亚",
+        "file_name": "dlc_balkan_w.scs",
+        "image_url": "https://ets-vtc-manage.oss-cn-beijing.aliyuncs.com/dlc_img/b6036a592d5f48b2b016679a573b3243.jpg",
+        "name": "West Balkans"
+    },
+    {
+        "desc": "《Bernard Krone Holding GmbH & Co. KG》是在欧洲里规模最大的车辆和机器生产商之一；因此我们非常荣幸能在《欧洲卡车模拟2》里带给您它们的挂车。《Krone》挂车DLC 给您带来几辆高品质的挂车以装载不同的货物，以及改装配件，车内配件和喷漆。",
+        "file_name": "dlc_krone.scs",
+        "image_url": "https://accvtc-app.oss-cn-beijing.aliyuncs.com/gameDlcImage/20240906/f50385bae0bb446caa0e6d4774a55b5d.png",
+        "name": "Krone Trailer Pack"
+    },
+    {
+        "desc": "开启一段激动人心的旅程，领略希腊的迷人景致，这里的每一条路线均展现该国震撼的美景与悠久的历史。探索希腊内陆的魅力，发现令人沉醉其中的岛屿。想象漫游于风景如画的村庄，寻迹于蜿蜒曲折的道路，途径代表性的地标，沉浸于希腊文化的百年历史画卷。",
+        "file_name": "dlc_greece.scs",
+        "image_url": "https://accvtc-app.oss-cn-beijing.aliyuncs.com/gameDlcImage/20241205/a805cdee095e49bd9b64b57016c06ffa.jpg",
+        "name": "Greece"
+    }
+]
